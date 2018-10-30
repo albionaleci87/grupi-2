@@ -1,7 +1,6 @@
 ## Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/albionaleci87/grupi-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+This is just a test for the second group of the training "Countering through technology".
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -15,9 +14,10 @@ Syntax highlighted code block
 ## Github pages
 ### Grupi-2
 
-- Bulleted
-- List
-
+- Gihub 
+- devOps
+-zenhub
+-*github Pages*
 1. Numbered
 2. List
 
